@@ -1,0 +1,17 @@
+{
+  "name": "cmd_chatgpt",
+  "version": "1.0.0",
+  "description": "Use ChatGPT in Command Promt or Terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesse Rodriguez-Avila",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.4.1",
+    "openai": "^4.27.0",
+    "readline-sync": "^1.4.10"
+  }
+}
